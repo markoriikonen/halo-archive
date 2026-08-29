@@ -20,6 +20,7 @@ with higher-quality originals in time.)
 - **Browse by date:** the year-by-year index below lists every post — click an entry to read it (photos included), or open its PDF.
 - **Search the text:** use the magnifying-glass "Search this repository" box at the top of the page (or press `/`) and type a word — a halo type, a place, anything. It looks inside every post. (The other box, "Go to file," only matches file names.)
 - **Download everything:** click the green "Code" button near the top, then "Download ZIP," to get the whole archive to read offline.
+
   
 **License:** CC0 1.0 Universal — dedicated to the public domain. Use freely for any purpose; no permission or attribution required.
 
