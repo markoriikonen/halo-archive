@@ -10,9 +10,10 @@ Markdown (`posts/`, plain text with the photos inline) and as a formatted PDF
 (`pdf/`). Filenames carry the date and a short description; a trailing number
 on display posts is the date of the display itself.
 
-The videos are not here. You can see them by clicking the links to the actual
-posts on X. Some have suffered greatly from compression. I have a plan to 
-publish the originals later somewhere.
+Videos are not included in this repository yet. Links labelled "[video: …]" in
+the posts are placeholders and won't open — the video files will be hosted 
+separately later. (They're also X's re-compressed versions, to be replaced 
+with higher-quality originals in time.)
 
 **License:** [CC BY 4.0](LICENSE) — free to use with credit to Marko Riikonen (@RiikonenMarko).
 
