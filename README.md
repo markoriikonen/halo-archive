@@ -15,7 +15,7 @@ the posts are placeholders and won't open — the video files will be hosted
 separately later. (They're also X's re-compressed versions, to be replaced 
 with higher-quality originals in time.)
 
-**License:** [CC BY 4.0](LICENSE) — free to use with credit to Marko Riikonen (@RiikonenMarko).
+**License:** CC0 1.0 Universal — dedicated to the public domain. Use freely for any purpose; no permission or attribution required.
 
 **380 posts** · photos and videos in `posts/media/` · formatted copies in `pdf/`.
 
