@@ -1,8 +1,8 @@
-# Atmospheric Halo Observations — Marko Riikonen
+# X Halo Posts — Marko Riikonen
 
-An archive of my atmospheric halo observations, originally posted on X
+An archive of my halo stuff, originally posted on X
 (@RiikonenMarko). Each entry is one post or self-thread — field notes, photos,
-crystal samples, stacks and simulations documenting ice-crystal halo displays,
+crystal samples, simulations, etc —
 mostly from Rovaniemi, Finland, and reconstructed here from my X data export.
 
 The posts span August 2023 to August 2026. Every thread is provided twice: as
@@ -10,8 +10,9 @@ Markdown (`posts/`, plain text with the photos inline) and as a formatted PDF
 (`pdf/`). Filenames carry the date and a short description; a trailing number
 on display posts is the date of the display itself.
 
-Some videos are X's re-compressed versions and may be replaced with better
-originals over time.
+The videos are not here. You can see them by clicking the links to the actual
+posts on X. Some have suffered greatly from compression. I have a plan to 
+publish the originals later somewhere.
 
 **License:** [CC BY 4.0](LICENSE) — free to use with credit to Marko Riikonen (@RiikonenMarko).
 
